@@ -1,5 +1,6 @@
 ## Black Jack Game
 
+![](screenshot.png)
 
-
-This black jack game is made for Javascript training purposes
+##  Goal
+Making a simple Black Jack game in Vanilla Javascript for training purposes.
